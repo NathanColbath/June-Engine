@@ -1,6 +1,6 @@
 # June Engine
 
-June Engine is a lightweight and modular Java game engine designed to help developers create 2D and 3D games with ease. Built with simplicity and flexibility in mind, June Engine provides the core tools needed to develop games while allowing for customization and scalability.
+June Engine is a lightweight and modular Java game engine designed to help developers create 2D games with ease. Built with simplicity and flexibility in mind, June Engine provides the core tools needed to develop games while allowing for customization and scalability.
 
 ## Features
 
